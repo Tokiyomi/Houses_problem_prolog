@@ -6,4 +6,5 @@ Solution is a list of houses that satisfy all constraints.
 References and autors:
 
 Folklore attributes this puzzle to Einstein
+
 see http://en.wikipedia.org/wiki/Zebra_Puzzle
